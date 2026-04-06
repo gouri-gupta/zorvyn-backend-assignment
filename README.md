@@ -125,6 +125,12 @@ npm run dev
 
 ---
 
+##  🌐 Live API
+
+- Base URL: https://zorvyn-backend-83jq.onrender.com
+
+---
+
 ## 👩‍💻 Author
 - Gouri Gupta
 
