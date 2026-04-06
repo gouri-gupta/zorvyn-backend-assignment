@@ -70,7 +70,7 @@ Backend system for **Finance Data Processing and Role-Based Access Control (RBAC
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/zorvyn-backend-assignment.git
+git clone https://github.com/gouri-gupta/zorvyn-backend-assignment.git
 cd zorvyn-backend-assignment
 ```
 ### 2. Install dependencies
@@ -95,18 +95,19 @@ npm run dev
 
 ### 🔐 Auth
 - POST /api/auth/login
+- POST /api/auth/register
 
 ### 👤 Users (Admin)
 - POST /api/users
 - GET /api/users
 - GET /api/users/:id
-- PUT /api/users/:id
+- PATCH /api/users/:id
 
 ### 💰 Transactions
 - POST /api/transactions
 - GET /api/transactions
 - GET /api/transactions/:id
-- PUT /api/transactions/:id
+- PATCH /api/transactions/:id
 - DELETE /api/transactions/:id
 
 ### 📊 Dashboard
