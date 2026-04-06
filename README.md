@@ -94,23 +94,23 @@ npm run dev
 ## 📡 API Endpoints (Sample)
 
 ### 🔐 Auth
-POST /api/auth/login
+- POST /api/auth/login
 
 ### 👤 Users (Admin)
-POST /api/users
-GET /api/users
-GET /api/users/:id
-PUT /api/users/:id
+- POST /api/users
+- GET /api/users
+- GET /api/users/:id
+- PUT /api/users/:id
 
 ### 💰 Transactions
-POST /api/transactions
-GET /api/transactions
-GET /api/transactions/:id
-PUT /api/transactions/:id
-DELETE /api/transactions/:id
+- POST /api/transactions
+- GET /api/transactions
+- GET /api/transactions/:id
+- PUT /api/transactions/:id
+- DELETE /api/transactions/:id
 
 ### 📊 Dashboard
-GET /api/dashboard
+- GET /api/dashboard
 
 ---
 
