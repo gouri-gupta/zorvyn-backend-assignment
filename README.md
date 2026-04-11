@@ -1,4 +1,4 @@
-# 🚀 Zorvyn Backend Assignment
+# 🚀 Finance Data Processing & Analytics Backend (RBAC System)
 
 Backend system for **Finance Data Processing and Role-Based Access Control (RBAC)** built using **Node.js, Express, and MongoDB**.
 
